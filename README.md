@@ -1,2 +1,2 @@
-# universal programm that includes calculator, factorial finder, fibbonacci finder, and polindrome checker
+#polindrome-factorial-fibbonacci-calculator
 I'm going to upload some of my projects that are publicly available to here. 
